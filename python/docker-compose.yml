@@ -1,0 +1,18 @@
+services:
+  api:
+    image: linkextractor-api:python
+    build: ./api
+    ports:
+      - "5000:5000"
+    environment:
+      - REDIS_URL=redis://redis:6379
+      - USE_CACHE=${USE_CACHE:-true}
+  web:
+    image: linkextractor-web:php
+    build: ./www
+    ports:
+      - "80:80"
+    environment:
+      - API_ENDPOINT=http://api:5000/api/
+  redis:
+    image: redis
