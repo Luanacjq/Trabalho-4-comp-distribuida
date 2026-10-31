@@ -1,0 +1,11 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,01 https://example.com/,HTTPError('500 Server Error: Internal Server Error for url: 01 https://example.com/'),18,2026-10-30T21:58:22Z,2026-10-31T01:00:00Z
+GET,08 https://www.kernel.org/,HTTPError('500 Server Error: Internal Server Error for url: 08 https://www.kernel.org/'),20,2026-10-30T21:58:22Z,2026-10-31T00:59:59Z
+GET,06 https://www.w3.org/,HTTPError('500 Server Error: Internal Server Error for url: 06 https://www.w3.org/'),20,2026-10-30T21:58:22Z,2026-10-31T01:00:01Z
+GET,04 https://www.sqlite.org/,HTTPError('500 Server Error: Internal Server Error for url: 04 https://www.sqlite.org/'),19,2026-10-30T21:58:22Z,2026-10-31T00:59:59Z
+GET,07 https://www.apache.org/,HTTPError('500 Server Error: Internal Server Error for url: 07 https://www.apache.org/'),20,2026-10-30T21:58:22Z,2026-10-31T00:59:59Z
+GET,09 https://www.php.net/,HTTPError('500 Server Error: Internal Server Error for url: 09 https://www.php.net/'),20,2026-10-30T21:58:22Z,2026-10-31T00:59:59Z
+GET,05 https://www.debian.org/,HTTPError('500 Server Error: Internal Server Error for url: 05 https://www.debian.org/'),19,2026-10-30T21:58:22Z,2026-10-31T00:59:59Z
+GET,02 https://www.python.org/,HTTPError('500 Server Error: Internal Server Error for url: 02 https://www.python.org/'),19,2026-10-30T21:58:22Z,2026-10-31T00:59:59Z
+GET,10 https://www.postgresql.org/,HTTPError('500 Server Error: Internal Server Error for url: 10 https://www.postgresql.org/'),20,2026-10-30T21:58:22Z,2026-10-31T00:59:59Z
+GET,03 https://www.ruby-lang.org/en/,HTTPError('500 Server Error: Internal Server Error for url: 03 https://www.ruby-lang.org/en/'),19,2026-10-30T21:58:22Z,2026-10-31T00:59:59Z

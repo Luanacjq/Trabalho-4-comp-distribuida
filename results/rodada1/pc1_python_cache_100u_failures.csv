@@ -1,0 +1,11 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,08 https://www.kernel.org/,"ConnectionResetError(104, 'Connection reset by peer')",1818,2026-10-30T21:36:46Z,2026-10-30T21:38:09Z
+GET,05 https://www.debian.org/,"ConnectionResetError(104, 'Connection reset by peer')",1845,2026-10-30T21:36:46Z,2026-10-30T21:38:09Z
+GET,07 https://www.apache.org/,"ConnectionResetError(104, 'Connection reset by peer')",1820,2026-10-30T21:36:46Z,2026-10-30T21:38:09Z
+GET,03 https://www.ruby-lang.org/en/,"ConnectionResetError(104, 'Connection reset by peer')",1859,2026-10-30T21:36:46Z,2026-10-30T21:38:09Z
+GET,06 https://www.w3.org/,"ConnectionResetError(104, 'Connection reset by peer')",1831,2026-10-30T21:36:46Z,2026-10-30T21:38:09Z
+GET,09 https://www.php.net/,"ConnectionResetError(104, 'Connection reset by peer')",1814,2026-10-30T21:36:46Z,2026-10-30T21:38:09Z
+GET,10 https://www.postgresql.org/,"ConnectionResetError(104, 'Connection reset by peer')",1807,2026-10-30T21:36:46Z,2026-10-30T21:38:09Z
+GET,01 https://example.com/,"ConnectionResetError(104, 'Connection reset by peer')",1875,2026-10-30T21:36:46Z,2026-10-30T21:38:09Z
+GET,02 https://www.python.org/,"ConnectionResetError(104, 'Connection reset by peer')",1864,2026-10-30T21:36:46Z,2026-10-30T21:38:09Z
+GET,04 https://www.sqlite.org/,"ConnectionResetError(104, 'Connection reset by peer')",1853,2026-10-30T21:36:46Z,2026-10-30T21:38:09Z

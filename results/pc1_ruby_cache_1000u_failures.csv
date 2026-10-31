@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,07 https://www.apache.org/,HTTPError('500 Server Error: Internal Server Error for url: 07 https://www.apache.org/'),2,2026-10-31T01:09:50Z,2026-10-31T01:09:50Z
+GET,03 https://www.ruby-lang.org/en/,HTTPError('500 Server Error: Internal Server Error for url: 03 https://www.ruby-lang.org/en/'),5,2026-10-31T01:09:31Z,2026-10-31T01:09:32Z

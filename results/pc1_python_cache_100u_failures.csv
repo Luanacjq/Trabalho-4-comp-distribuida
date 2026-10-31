@@ -1,0 +1,12 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,08 https://www.kernel.org/,"ConnectionResetError(104, 'Connection reset by peer')",1128,2026-10-31T01:08:07Z,2026-10-31T01:08:46Z
+GET,05 https://www.debian.org/,"ConnectionResetError(104, 'Connection reset by peer')",1167,2026-10-31T01:08:07Z,2026-10-31T01:08:46Z
+GET,07 https://www.apache.org/,"ConnectionResetError(104, 'Connection reset by peer')",1142,2026-10-31T01:08:07Z,2026-10-31T01:08:46Z
+GET,04 https://www.sqlite.org/,HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: 04 https://www.sqlite.org/'),1,2026-10-31T01:07:20Z,2026-10-31T01:07:20Z
+GET,03 https://www.ruby-lang.org/en/,"ConnectionResetError(104, 'Connection reset by peer')",1190,2026-10-31T01:08:07Z,2026-10-31T01:08:46Z
+GET,06 https://www.w3.org/,"ConnectionResetError(104, 'Connection reset by peer')",1151,2026-10-31T01:08:08Z,2026-10-31T01:08:46Z
+GET,09 https://www.php.net/,"ConnectionResetError(104, 'Connection reset by peer')",1128,2026-10-31T01:08:07Z,2026-10-31T01:08:46Z
+GET,10 https://www.postgresql.org/,"ConnectionResetError(104, 'Connection reset by peer')",1116,2026-10-31T01:08:07Z,2026-10-31T01:08:46Z
+GET,01 https://example.com/,"ConnectionResetError(104, 'Connection reset by peer')",1201,2026-10-31T01:08:08Z,2026-10-31T01:08:46Z
+GET,02 https://www.python.org/,"ConnectionResetError(104, 'Connection reset by peer')",1196,2026-10-31T01:08:08Z,2026-10-31T01:08:46Z
+GET,04 https://www.sqlite.org/,"ConnectionResetError(104, 'Connection reset by peer')",1180,2026-10-31T01:08:08Z,2026-10-31T01:08:46Z

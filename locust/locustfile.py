@@ -13,13 +13,13 @@ URLS = [
     "https://example.com/",
     "https://www.python.org/",
     "https://www.ruby-lang.org/en/",
-    "https://www.gnu.org/",
+    "https://www.sqlite.org/",
     "https://www.debian.org/",
     "https://www.w3.org/",
     "https://www.apache.org/",
     "https://www.kernel.org/",
     "https://www.php.net/",
-    "https://redis.io/",
+    "https://www.postgresql.org/",
 ]
 
 

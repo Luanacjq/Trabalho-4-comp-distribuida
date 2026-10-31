@@ -1,0 +1,7 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,04 https://www.sqlite.org/,HTTPError('500 Server Error: Internal Server Error for url: 04 https://www.sqlite.org/'),6,2026-10-31T01:13:06Z,2026-10-31T01:13:08Z
+GET,02 https://www.python.org/,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=60)""))",919,2026-10-31T01:12:19Z,2026-10-31T01:12:21Z
+GET,02 https://www.python.org/,HTTPError('500 Server Error: Internal Server Error for url: 02 https://www.python.org/'),83,2026-10-31T01:11:20Z,2026-10-31T01:13:17Z
+GET,03 https://www.ruby-lang.org/en/,HTTPError('500 Server Error: Internal Server Error for url: 03 https://www.ruby-lang.org/en/'),88,2026-10-31T01:12:24Z,2026-10-31T01:13:17Z
+GET,01 https://example.com/,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=60)""))",9000,2026-10-31T01:12:19Z,2026-10-31T01:12:28Z
+GET,03 https://www.ruby-lang.org/en/,"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='localhost', port=4567): Read timed out. (read timeout=60)""))",6,2026-10-31T01:12:20Z,2026-10-31T01:12:27Z

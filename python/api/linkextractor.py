@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 def extract_links(url):
-    res = requests.get(url)
+    res = requests.get(url, timeout=60)  # mesmo limite padrao do open-uri (Ruby)
     soup = BeautifulSoup(res.text, "html.parser")
     base = url
     # TODO: Update base if a <base> element is present with the href attribute

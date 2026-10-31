@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,09 https://www.php.net/,HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: 09 https://www.php.net/'),4,2026-10-30T21:43:08Z,2026-10-30T21:43:08Z

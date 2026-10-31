@@ -9,9 +9,9 @@ services:
       - USE_CACHE=${USE_CACHE:-true}
   web:
     image: linkextractor-web:php
-    build: ./www
+    build: ../web
     ports:
-      - "80:80"
+      - "${WEB_PORT:-80}:80"
     environment:
       - API_ENDPOINT=http://api:5000/api/
   redis:
